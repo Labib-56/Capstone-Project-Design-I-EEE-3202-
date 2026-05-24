@@ -1,5 +1,4 @@
-# Real-Time Edge-Based Facial Recognition System Using Deep Learning on Raspberry Pi 4
-
+# EEE 3202 — Capstone Project Design I
 ## About the Course
 **EEE 3202 — Capstone Project Design I**  
 Department of Electrical & Electronic Engineering  
@@ -9,11 +8,12 @@ Capstone Project Design I is a core course in the undergraduate EEE curriculum a
 where students independently identify a real-world engineering problem and develop a 
 complete hardware-software solution from scratch. The project spans problem definition, 
 literature review, system design, implementation, testing, and final presentation — 
-simulating a real professional engineering project lifecycle.
+simulating a real professional engineering project lifecycle. Students attend this course throughout the 3rd year even semester and submit the project at the end of 3rd year even semester. The theme of project reflects the knowledge gained from 1st year odd semester to 3rd year odd semester.
 
 ---
 
 ## What I Built
+### Real-Time Edge-Based Facial Recognition System Using Deep Learning on Raspberry Pi 4
 A standalone, offline facial recognition system that runs entirely on a **Raspberry Pi 4** 
 using a quantized deep learning pipeline — no cloud, no internet, no external AI accelerator.
 
