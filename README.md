@@ -1,9 +1,9 @@
 # EEE 3202 — Capstone Project Design I
 ## About the Course
 **EEE 3202 — Capstone Project Design I**  
-Department of Electrical & Electronic Engineering  
-Rajshahi University of Engineering & Technology (RUET)
-, Bangladesh
+**Department of Electrical & Electronic Engineering**  
+**Rajshahi University of Engineering & Technology (RUET)**  
+**Bangladesh**
 
 Capstone Project Design I is a core course in the undergraduate EEE curriculum at RUET 
 where students independently identify a real-world engineering problem and develop a 
