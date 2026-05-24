@@ -1,0 +1,7 @@
+# Raspberry Pi Terminal:
+
+# To enrol a new user:
+python3 add_face.py
+
+# To run real-time recognition:
+python3 main_deeplearning.py

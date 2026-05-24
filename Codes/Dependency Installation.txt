@@ -1,0 +1,19 @@
+#Raspberry Pi Terminal:
+
+#Code 1: System and Python dependency installation on Bookworm
+
+sudo apt update
+sudo apt install -y python3-opencv python3-picamera2 python3-numpy
+
+
+#Code 2: Model file download
+
+cd ~/face_project
+
+# Face Detector (YuNet) - compatible with OpenCV 4.6.0
+wget https://github.com/opencv/opencv_zoo/raw/main/models/\
+face_detection_yunet/face_detection_yunet_2022mar.onnx
+
+# Face Recognizer (SFace)
+wget https://github.com/opencv/opencv_zoo/raw/main/models/\
+face_recognition_sface/face_recognition_sface_2021dec.onnx
